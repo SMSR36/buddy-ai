@@ -117,6 +117,4 @@ This project aims to evolve into a **wearable AI assistant for visually impaired
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License.
